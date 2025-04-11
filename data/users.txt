@@ -1,2 +1,2 @@
 admin,Admin User,admin
-student1,John Doe,student
+student1,Shubham Rai,studentshubham,Shubham Rai,student
