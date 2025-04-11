@@ -1,2 +1,4 @@
-admin,Admin User,admin
-student1,Shubham Rai,studentshubham,Shubham Rai,student
+admin,password,admin
+student1,studentpass,student
+Shubham,Shubham Rai,student
+ram,ram sing,student
