@@ -17,7 +17,6 @@ def admin_dashboard(user):
             new_password = password_entry.get()
             new_role = role_var.get()
 
-
             if add_user(new_username, new_full_name, new_password, new_role):
                 messagebox.showinfo("Success", "User added successfully!")
                 add_user_window.destroy()
